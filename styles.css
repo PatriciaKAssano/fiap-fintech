@@ -133,6 +133,16 @@ h1 {
 
 .horizontal-cards {
   justify-content: center;
+  gap: 0 10px;
+}
+
+.icon-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.reverse {
+  flex-direction: row-reverse;
 }
 
 .form-wrapper {
