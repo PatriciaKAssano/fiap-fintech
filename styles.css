@@ -117,6 +117,18 @@ h1 {
 
 .vertical-cards {
   justify-content: center;
+  gap: 0 10px;
+}
+
+.card-vertical {
+  padding: 1%;
+}
+
+.icon {
+  margin: 0 auto;
+  width: 100px;
+  aspect-ratio: 1;
+  background-color: darkgrey;
 }
 
 .horizontal-cards {
