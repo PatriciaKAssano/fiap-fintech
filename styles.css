@@ -117,7 +117,7 @@ h1 {
 
 .vertical-cards {
   justify-content: center;
-  gap: 0 10px;
+  gap: 10px;
 }
 
 .card-vertical {
