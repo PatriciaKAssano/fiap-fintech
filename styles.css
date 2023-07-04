@@ -52,16 +52,23 @@ h1 {
 
 .container {
   justify-content: center;
+  background-color: #D7EBEB;
+  border-radius: 50px;
+  overflow: hidden;
 }
 
+.main-container {
+  padding: 2%;
+}
+/*
 .container-xxl {
   background-color: lightblue;
-  /*height: 100vh;*/
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 }
-
+*/
 .main-header,
 .main-footer {
   background-color: lightcoral;
